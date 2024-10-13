@@ -10630,3 +10630,24 @@ class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1728838954009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1728838969120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1728838972197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
