@@ -1,151 +1,1144 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1729290561744 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1729373400795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290564812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373403865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290567887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373406941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290570953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373410006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290574031 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373413082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290577100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373416153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290580217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373419244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290583291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373422310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290586357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373425391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290589640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373428467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729290605056 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373431535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290608119 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373434609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290611210 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373437777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290614297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373440857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290617361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373443918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290620547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373447037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729290629641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373450107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290632709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373453178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290635772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373456480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290638837 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373459560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290642565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373462911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729290659120 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373465984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290662181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373469045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729290665247 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1729373472113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373475184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373478270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373481339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373484415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373487725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373490805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373493891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373496955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373500062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373503126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373506831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373509939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373513032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373516497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373519585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373522733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373525796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373528868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373531945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373535109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373538177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373541247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373544327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373547401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373550512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373553586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373556671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373560072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373563203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373566299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373569365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373572431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373575522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373578586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373582446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373585532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373590832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373593897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373596966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373600043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373603111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373606188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373609254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373612317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373615377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373618451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373621518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373624601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373627665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373630735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373633800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373636868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373639933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373643001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373646116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373649181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373652245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373655310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373658397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373661461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373664539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373667610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373670692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373673762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373676825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373679895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373682962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373686026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373689132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373692204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373695273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373698350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373701424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373704499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373707576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373710654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373714882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373717949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373721269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373724355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373727436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373730513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373733582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373736706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373739804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373742882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373745951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373749019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373752087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373755154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373758242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373761361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373764427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373767495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373770559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373773624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373776716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373779781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373782859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373787094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373790165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373793238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373796350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373799419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373802488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373805565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373808628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373811741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373814822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373817924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373820999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373824074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373827144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373830244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373833348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373836434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373839507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373842567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373845646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373848746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373851838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373854900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373857971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373861062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373864156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373867287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373870388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373873470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373876536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373879624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373882692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373885771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373888846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373891910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373894977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373898041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373902032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373905106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373908191 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373911318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373914392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373917493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373921302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373924369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373927437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373930510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373933598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373936666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373941861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373944928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373948006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373951091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373954248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373957316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373960440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373963505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373966572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373969638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373972701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373975766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373978851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373981923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373984987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373988956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373992021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373995082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1729373998164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
