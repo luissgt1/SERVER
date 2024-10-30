@@ -1,1206 +1,1170 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1729894762516 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1730325292082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894777638 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325295164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894780709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325298232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894783784 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325301375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894786844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325304438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894789905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325307519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894793010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325310603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894796094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325313689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894799176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325316876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894802238 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325319953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894805300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325323050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894808380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325326163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894823480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325329256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894826567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325332321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894829624 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325335399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894832680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325338472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894835758 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325341536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894838819 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325344628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894854170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325347707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894857239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325350771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894860320 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325353842 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894863380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325356908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894866439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325359978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894869512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325363040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894872568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325366106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894875630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325369187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894878717 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325372253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894881775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325375315 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894896884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325378382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894899941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325381449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894903012 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325384515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894906072 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325387589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894909155 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325390652 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894912209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325393725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894915265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325396821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894918342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325399890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894933464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325402976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894936525 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325406049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894939595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325409124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894942658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325412225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894945760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325415295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894948815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325418550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894951881 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325421618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894954949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325424695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894958018 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325427786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729894973110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325430866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894976184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325434004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894979239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325437276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894982297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325440345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894985360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325443498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894988419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325446609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894991478 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325449686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894994535 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325452776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729894997590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325455877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895012695 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325458956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895015750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325462027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895018805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325465107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895021864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325468183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895024930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325471252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895027989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325474320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895043090 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325477389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895046156 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325480459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895049216 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325483536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895052270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325486614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895055323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325489677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895070410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325492751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895073482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325495826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895076549 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325498907 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895079606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325501990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895082659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325505062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895085725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325508126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895088791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325511291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895091864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325514365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895094924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325517443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895097984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325520514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895101069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325523581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895104140 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325526657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895107198 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325529732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895110264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325532804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895113329 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325535879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895128416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325538973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895131482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325542042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895134542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325545122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895137606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325548204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895140663 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325551268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895143723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325554336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895158806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325557407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895161863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325560479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895164922 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325563556 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895167984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325566817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895171046 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325569879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895174101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325572944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895189203 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325576007 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895192261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325579081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895195319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325582150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895198381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325585228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895201448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325588301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895204515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325591398 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895207575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325594483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895222660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325597545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895225802 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325600614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895228914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325603685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895231973 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325606754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895235038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325609816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895238095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325612893 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895253183 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325615972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895256242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325619033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895259297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325622104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895262360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325625163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895265420 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325628229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895268484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325631299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895271540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325634363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895274598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325637431 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895289709 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325640522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895292779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325643656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895295837 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325646735 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895298913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325649807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895301987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325652898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895305067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325655986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895320157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325659104 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895323228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325662172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895326299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325665242 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895329361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325668305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895332422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325671392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895335482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325674462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895338543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325677548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895353647 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325680616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895356702 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325683686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895359766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325686758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895362834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325689830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895365896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325692899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895368959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325695967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895372101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325699039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895375163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325702122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895378246 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325705190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895381301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325708255 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895384364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325711328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895387432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325714399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895390491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325717473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895393546 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325720542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895396613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325723634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895411706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325726705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895414783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325729794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895417841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325732861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895420892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325735928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895435980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325738995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895439036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325742071 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895442117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325745137 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895445194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325748213 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895448259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325751280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895451315 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325754357 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895454375 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325757520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895469477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325760607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895472534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325763684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895475592 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325766764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895478671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325769865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895481732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325772930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895496845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325775990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895499901 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325779065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895502961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325782135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895506028 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325785204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895509088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325788278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895512146 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325791364 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895515204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325794435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895518268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325797514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895521327 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325800582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895536429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325803649 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895539491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325806725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895542549 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325809783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895545648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325812852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895548710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325815914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895563818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325818992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895566872 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325822061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895569932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325825123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895572991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325828192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895576048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325831260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895579111 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325834340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895582168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325837411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895597302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325840491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895600363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325843586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895603427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325846661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895606490 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325849737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895609548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325852816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895612617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325855885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.22): 1729895627735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325858964 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895630790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325862050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895633847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325865146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.22): 1729895636902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.22): 1730325868219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1730325871276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325874338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325877427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325880494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325883570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325886634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1730325889703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+king-eligibility.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+class-inherited.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
